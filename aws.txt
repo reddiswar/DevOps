@@ -1,0 +1,21 @@
+AWS
+==========
+ls --> List the contents of your current working directory. 
+cd --> To change working directory
+mkdir -->Create the DIRECTORY(ies),if they do not alredy exist.
+- regular file 
+d-directory
+l-soft link
+c-special file 
+s-socket
+b-block device  
+
+
+IP means : commands is used to setup network interfaces and allow the users to view information about the configured network interfaces.
+
+
+CHANGE IP-ADDRESS PERMANETLY: in/etc/sysconfig/network-scripts directory every machine have one file for network interface.
+if the interface is "eth0",you will see the ifcfg-file under /ect/sysconfig/network-scripts directory.
+Change the IPADDR filed in the ifcfg-eth0 file.
+Change the IP address in/etc/hosts file.  
+
