@@ -1,5 +1,17 @@
 AWS
 ==========
+
+kjfdhlkwhf;o
+aljgh;akshgfa
+ljshdgffg;ksahg
+kjhsag;kjahs;oef
+ljhsgf;kjsahfa
+kjsahfkjlsahg
+ba;aksdgha;dk
+llkdsrhg;kashf
+
+
+
 ls --> List the contents of your current working directory. 
 cd --> To change working directory
 mkdir -->Create the DIRECTORY(ies),if they do not alredy exist.
